@@ -1,5 +1,6 @@
 **Build instructions:**
 - Run "make mrproper" to make sure you have no stale .o files and dependencies lying around
+- Rename configmk908nand to .config so makefile can see it
 - Run "./maker.sh" to compile the kernel for the MK908V3 using the prebuild toolchain
  - This will give you the kernel.
 - Download the NAND installer kit from: http://tyleryeomans.com/rk/PicUntu-4.5-BasicGUI-Nand-MK908v3.7z
