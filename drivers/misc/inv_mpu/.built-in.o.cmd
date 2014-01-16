@@ -1,0 +1,1 @@
+cmd_drivers/misc/inv_mpu/built-in.o :=  arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/inv_mpu/built-in.o drivers/misc/inv_mpu/accel/built-in.o drivers/misc/inv_mpu/compass/built-in.o drivers/misc/inv_mpu/pressure/built-in.o 

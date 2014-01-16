@@ -1,0 +1,4 @@
+kernel/drivers/usb/serial/usbserial.ko
+kernel/drivers/usb/serial/option.ko
+kernel/drivers/usb/serial/usb_wwan.ko
+kernel/drivers/usb/serial/usiserial.ko

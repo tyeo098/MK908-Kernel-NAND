@@ -1,0 +1,2 @@
+kernel/drivers/gpu/mali/ump/ump.ko
+kernel/drivers/gpu/mali/mali/mali.ko

@@ -1,0 +1,1 @@
+cmd_drivers/gpio/gpio_dump/user-gpio-drv.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/tyler/dev/rk3188/tylermk908/scripts/module-common.lds --build-id  -o drivers/gpio/gpio_dump/user-gpio-drv.ko drivers/gpio/gpio_dump/user-gpio-drv.o drivers/gpio/gpio_dump/user-gpio-drv.mod.o

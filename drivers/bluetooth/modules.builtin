@@ -1,0 +1,2 @@
+kernel/drivers/bluetooth/vflash.ko
+kernel/drivers/bluetooth/hci_uart.ko

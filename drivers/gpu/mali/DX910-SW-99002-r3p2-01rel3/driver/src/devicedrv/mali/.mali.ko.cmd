@@ -1,0 +1,1 @@
+cmd_drivers/gpu/mali/mali/mali.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/tyler/dev/rk3188/tylermk908/scripts/module-common.lds --build-id  -o drivers/gpu/mali/mali/mali.ko drivers/gpu/mali/mali/mali.o drivers/gpu/mali/mali/mali.mod.o

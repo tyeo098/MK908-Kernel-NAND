@@ -1,0 +1,8 @@
+kernel/drivers/input/input-core.ko
+kernel/drivers/input/ff-memless.ko
+kernel/drivers/input/evdev.ko
+kernel/drivers/input/keyreset.ko
+kernel/drivers/input/joystick/xpad.ko
+kernel/drivers/input/keyboard/rk29_keys.ko
+kernel/drivers/input/misc/keychord.ko
+kernel/drivers/input/misc/uinput.ko

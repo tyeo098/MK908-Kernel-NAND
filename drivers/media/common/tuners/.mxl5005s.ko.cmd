@@ -1,0 +1,1 @@
+cmd_drivers/media/common/tuners/mxl5005s.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/tyler/dev/rk3188/tylermk908/scripts/module-common.lds --build-id  -o drivers/media/common/tuners/mxl5005s.ko drivers/media/common/tuners/mxl5005s.o drivers/media/common/tuners/mxl5005s.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/common/tuners/tea5767.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/tyler/dev/rk3188/tylermk908/scripts/module-common.lds --build-id  -o drivers/media/common/tuners/tea5767.ko drivers/media/common/tuners/tea5767.o drivers/media/common/tuners/tea5767.mod.o

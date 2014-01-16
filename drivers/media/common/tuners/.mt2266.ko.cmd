@@ -1,0 +1,1 @@
+cmd_drivers/media/common/tuners/mt2266.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/tyler/dev/rk3188/tylermk908/scripts/module-common.lds --build-id  -o drivers/media/common/tuners/mt2266.ko drivers/media/common/tuners/mt2266.o drivers/media/common/tuners/mt2266.mod.o
