@@ -27,7 +27,7 @@ int rkwifi_set_country_code(char *code)
  * Set Firmware Path
  */
  
-#define ANDROID_FW_PATH "/etc/firmware/"
+#define ANDROID_FW_PATH "/system/etc/firmware/"
 
 int rkwifi_set_firmware(char *fw, char *nvram)
 {
